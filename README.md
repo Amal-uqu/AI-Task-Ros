@@ -1,4 +1,4 @@
-# AI-Task
+# Ros installation
  ## 1- install VirtualBox from https://www.virtualbox.org/
 
 ## 2- install Ubuntu 22.04 from https://ubuntu.com/blog/tag/22-04-lts
