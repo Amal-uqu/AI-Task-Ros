@@ -1,5 +1,5 @@
 # AI-Task
-install VirtualBox from https://www.virtualbox.org/
+-install VirtualBox from https://www.virtualbox.org/
 install Ubuntu 22.04 from https://ubuntu.com/blog/tag/22-04-lts
 install ubuntu in VirtualBox 
 run the commands in ubuntu terminal and follow the instructions {
